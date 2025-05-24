@@ -25,7 +25,7 @@ A full features of text utilized App, and responsive UI using TailwindCSS.
 
 Clone the project:
 
-bash
+```bash
 git clone https://github.com/tousher101/textconverter.git
 cd textconverter
 npm install
