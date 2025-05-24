@@ -1,12 +1,45 @@
-# React + Vite
+# Text Converter- Text Utility App
+A full features of text utilized App, and responsive UI using TailwindCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#features
+-> Covert UpperCase.
+-> Convert Lower Case.
+-> Convert Capitalized.
+-> Remove Space.
+-> Copy Text(ClipBoard).
+-> Convert Title Case.
+-> Word Counter.
+-> Character Counter.
+-> Dark Mode.
+-> Color Palette Mode.
+-> Alert Display
+-> Full Resposive for (Mobile, Tablet, Laptop, Desktop).
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- React + Vite
+- Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Run Locally
+
+Clone the project:
+
+bash
+git clone https://github.com/tousher101/textconverter.git
+cd textconverter
+npm install
+npm run dev
+
+## Live Demo
+Not Available.
+
+## Personal Note
+Git commit history is not available for this project because it was developed on a low-end system.
+Running Git or Git Extensions in VS Code significantly slowed down the editor, often causing it to hang.
+As a result, version control was managed manually outside of VS Code for this project.
+
+
+
+
+
